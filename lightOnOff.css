@@ -1,0 +1,14 @@
+body{
+    border: 1px solid green;
+    padding: 10px;
+    width: 300px;
+    height:auto;
+    margin:30px 25px;
+
+
+
+}
+#btnCalculate{
+    margin-top:10px;
+    
+}
